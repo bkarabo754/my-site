@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React, Next.js, <br /> React Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
